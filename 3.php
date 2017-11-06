@@ -85,6 +85,6 @@ mysql_close($msql);
 	 </tbody>
 	</table>
 <p><a href="1.php">Добавить данные в таблицу</a></p>
-	
+	Изменение3
 	</body>
 </html>
